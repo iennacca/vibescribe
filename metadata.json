@@ -1,0 +1,7 @@
+{
+  "name": "VibeScribe - AI Media Analyst",
+  "description": "A professional tool to transcribe audio/video files and generate comprehensive executive summaries using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
